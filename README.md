@@ -10,7 +10,7 @@ Ideal for teachers, schools, or anyone learning data analysis.
 ## 🚀 Live Demo
 
 👉 **Try it online** (hosted on Streamlit Cloud):  
-[🔗 your-link-here](https://yourname-streamlit-app.streamlit.app)
+[🔗 your-link-here](https://projectpandaapp-fgskdunnjayqypv7fpvzro.streamlit.app/)
 
 ---
 
